@@ -1,0 +1,31 @@
+
+# Creado por https://www.toptal.com/developers/gitignore/api/windows
+# Edite en https://www.toptal.com/developers/gitignore?templates=windows
+
+### Windows ###
+# Archivos de caché de miniaturas de Windows
+Thumbs.db
+Thumbs.db: encriptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo de volcado
+* .stackdump
+
+# Archivo de configuración de carpeta
+[Dd] esktop.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$ RECICLAJE.BIN /
+
+# Archivos de Windows Installer
+*.taxi
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Accesos directos de Windows
+* .lnk
+
+# Fin de https://www.toptal.com/developers/gitignore/api/windows
